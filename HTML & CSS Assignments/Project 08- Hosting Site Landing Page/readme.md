@@ -2,6 +2,7 @@
 
 `Assests are Provided!`
 
-![project06](https://user-images.githubusercontent.com/45428643/227725532-5368fc96-4d0e-4d07-9162-b965b1775306.png)
+![sample output given from bootcamp](https://user-images.githubusercontent.com/45428643/227725573-c8094721-6f03-462d-b99b-25ea217234c0.png)
+
 
 
